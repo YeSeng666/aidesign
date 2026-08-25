@@ -248,7 +248,7 @@ function App() {
             </div>
           </div>
           <div className="tools-ledger">
-            <article><TerminalSquare size={25} /><span>Hermes</span><strong>运行 aidesign Profile</strong><small>本地对话已验证</small></article>
+            <article><TerminalSquare size={25} /><span>Hermes</span><strong>承载 aidesign Profile</strong><small>Profile 配置已存在</small></article>
             <article><Braces size={25} /><span>Codex</span><strong>维护公开页面与文档</strong><small>不是访客运行依赖</small></article>
             <article><Blocks size={25} /><span>飞书 CLI</span><strong>条件性交付通道</strong><small>公开站不接入</small></article>
             <article><FileStack size={25} /><span>Markdown</span><strong>确认版事实来源</strong><small>本地、可回读、可追溯</small></article>
